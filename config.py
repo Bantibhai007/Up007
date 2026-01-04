@@ -17,7 +17,7 @@ PASS_DB = int(os.environ.get("PASS_DB", "721"))
 # auth_chats = []
 
 #try:
-    #ADMINS=[7827463899]
+    #ADMINS=[5923201419]
     #for x in (os.environ.get("ADMINS", "5923201419").split()):
         #ADMINS.append(int(x))
 #except ValueError:
